@@ -1,0 +1,7 @@
+pandas
+Pillow
+requests
+PyYAML
+openpyxl
+python-dotenv
+base64io
